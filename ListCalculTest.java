@@ -18,7 +18,7 @@ public class ListCalculTest {
 		System.out.println("영어점수");
 		al.add(sc.nextInt());
 		
-		
+		//추가
 		for(int num : al) {
 			tot += num;
 		}
